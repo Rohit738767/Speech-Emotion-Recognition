@@ -2,11 +2,10 @@
 
 # Introduction 
 
-**In today’s digital era, speech signals have become a mode of communication between humans and machines which is possible by various technological advancements. Speech recognition techniques with methodologies signal processing techniques made leads to Speech-to text (STT) technology which is used mobile phones as a mode of communication.**
+**Speech is the simplest way of expressing ourselves as humans. and In Speech Emotion Recognition we can easily check speech and get output in emotion and it is only natural then to extend this communication medium to computer applications. and it could be a method that extricates passionate characteristics from discourse signals by computer and contrasts and analyzes particular parameters and gotten enthusiastic changes.**
 
-**Speech Recognition is the fastest growing research topic in which attempts to recognize speech signals. This leads to Speech Emotion Recognition (SER) growing research topic in which lots of advancements can lead to advancements in various fields like automatic translation systems, machine to human interaction, used in synthesizing speech from the text so on**
-
-**There are many voice products has been developed like Amazon Alex, Google Home, Apple Home Pod which functions mainly on voice-based commands. It is evident that Voice will be the better medium for communicating to the machines**
+**Speech Emotion Recognition, abbreviated SER, is the act of trying to identify human emotion and emotional state through speech**
+**So why not have a feeling detector that will guage your feelings and within the future prescribe you distinctive things based on your temperament. This could be utilized by different businesses to offer diverse administrations like promoting company proposing you to purchase items based on your feelings, car industry can distinguish the people feelings and alter the speed of independent cars as required to maintain a strategic distance from any collisions etc.**
 
 
 
@@ -84,7 +83,10 @@ Research has shown that verbal communication remains one of the most employable 
 
 # Conclusion 
 
-**Through  this project, we showed how we can leverage Machine learning to obtain the underlying emotion from speech audio data and some insights on the human expression of emotion through voice. This system can be employed in a variety of setups like Call Centre for complaints or marketing, in voice-based virtual assistants or chatbots, in linguistic research, etc.** 
+**That's it! We reached the end of our exercise.
+So now the conclude the all things in this project some beautiful techniques are used in this project like start form EDA, Data augmentation, Feature extraction not but least model.
+Speech emotion recognition is very important nowadays so this project help to recognize the emotion using speech 
+We use 6 models and combine all of them we check the CNN model gave us good accuracy to use further deployment.** 
 
 
 
